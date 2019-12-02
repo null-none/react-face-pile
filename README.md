@@ -1,5 +1,5 @@
 # react-face-pile
-Sidebar react bootstrap component
+A group of overlapping round avatars are called face piles
 
 
 ## Install
