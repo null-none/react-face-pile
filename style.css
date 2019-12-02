@@ -1,0 +1,35 @@
+.face-pile {
+  display: flex;
+  margin-left: 10px;
+  margin-top: -10px;
+  flex-grow: 1;
+  position: relative;
+  text-align: center;
+}
+
+.circle {
+  position: absolute; 
+}
+
+.face-pile-1 .circle {
+  left: 25%;
+}
+
+.face-pile-2 .circle:nth-child(1) {
+  left: 12.5%;
+}
+
+.face-pile-2 .circle:nth-child(2) {
+  left: 37.5%;
+}
+
+.face-pile-3 .circle:nth-child(1) {
+  left: 0%;
+}
+
+.face-pile-3 .circle:nth-child(2) {
+  left: 25%;
+}
+.face-pile-3 .circle:nth-child(3) {
+  left: 50%;
+}

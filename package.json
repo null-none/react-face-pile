@@ -1,0 +1,21 @@
+{
+  "name": "react-face-pile",
+  "version": "0.0.1",
+  "description": "A group of overlapping round avatars are called face piles",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "avatar",
+    "face pile"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-avatar": "^3.7.0"
+  },
+  "url" : "https://github.com/null-none/react-face-pile",
+  "author": "Dmitry Kalinin",
+  "license": "MIT"
+}
