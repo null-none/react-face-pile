@@ -1,6 +1,6 @@
 {
   "name": "react-face-pile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A group of overlapping round avatars are called face piles",
   "main": "index.js",
   "keywords": [
